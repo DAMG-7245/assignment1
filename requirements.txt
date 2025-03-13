@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+boto3
+botocore
+python-dotenv
+Requests
+pandas
+docling 
+beautifulsoup4
+PyMuPDF
+markitdown
+pdfplumber
+pdfservices_sdk == 4.1.0
+deepsearch-glm[toolkit]
+python-multipart
+
+
+
+
+
+
