@@ -4,6 +4,8 @@ Demo Link: https://youtu.be/EA8dEzMJPnM
 
 backend url : https://fastapi-service-980441147674.us-east1.run.app
 
+Codelab : https://damg-7245.github.io/assignment1/#0
+
 🚀 **Extract, Standardize, and Store Data from PDFs and Webpages**  
 
 ## **📌 Overview**
